@@ -1,2 +1,2 @@
 # LAN-scan
-this will scan for networks within your area
+this will scan for devices in your area
